@@ -62,9 +62,15 @@ The task will fail if something is not correct.
 
 ### Dependency Licenses
 If you want to add a dependency look at its license and check if it is compatible.
-After that put something like a notice into a folder with the name `LICENSES` located at the root project path.
-This file has to be named after the dependency name and has to follow the license guidelines and the information
-in the source repository.
+After that put a notice into a folder with the name `LICENSES` located at the root path of that (sub-)project.
+This file has to be named after the dependency name (`dependency_name.txt`) and has to follow the license guidelines 
+and the informations in the source repository. Basically, in most licenses a note from a 
+`NOTICE` (or similarly named) file must be inserted here. If such a file does not exist, 
+insert a copy of the attached dependency license text. Don't forget to start each notice file
+with the project name in the first, followed by a link to the repository in
+the second line and start the contents of the notice after an blank line in between.
+In gernal, always put a file named after the license title with the unmodified license text 
+in the folder, if it is not already present or is not the (sub-)project's license.
 
 ## IDE Configuration
 If a project has a code style policy, you can find an `.editorconfig` file in the root directory of the project.
