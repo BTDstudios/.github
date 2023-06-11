@@ -2,7 +2,7 @@
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report security vulnerabilities through [this form](https://forms.office.com/r/kkkQrbABr2).
+Instead, please report security vulnerabilities through [this form](https://github.com/BTDstudios/.github/security/policy).
 The form is configured in such a way that only the reporter and the team leader can see the details.
 By restricting access to this potentially sensitive information, we can work on a fix and deliver it, before a vulnerability becomes well known.
 
