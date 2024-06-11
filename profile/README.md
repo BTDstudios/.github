@@ -1,6 +1,6 @@
 # BTDstudios
 
-BTDstudios is a Software Development organization focusing on the development.
+BTDstudios is a Software Development organization focusing on the development of Minecraft related software.
 
 Visit us here: [Website](https://btdstudios.github.io/) | [Discord (Coming Soon)]() | [YouTube](https://youtube.com/@BTDstudios-official)
 
